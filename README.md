@@ -11,4 +11,9 @@
    __Link__: https://github.com/pup98/Fasta-Parser<br />
    <br />
 4. __Pathogenic-Genomic-Variant-Detection-Project__<br />
-   __Link__: https://github.com/pup98/Pathogenic-Genomic-Variant-Detection-Project   
+   __Link__: https://github.com/pup98/Pathogenic-Genomic-Variant-Detection-Project <br/>
+    <br/>
+5. __Comparative Variant Calling and Annotation Pipeline__<br/>
+   __Link__: https://github.com/pup98/BWA-Variant-Calling-Pipeline
+
+   
