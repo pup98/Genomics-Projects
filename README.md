@@ -10,7 +10,7 @@
 3. __Python Module: Fasta Parser (manipulating VCF files for mutation)__<br />
    __Link__: https://github.com/pup98/Fasta-Parser<br />
    <br />
-4. __Pathogenic-Genomic-Variant-Detection-Project__<br />
+4. __Consensus Pathogenic Genomic Variant Detection Project__<br />
    __Link__: https://github.com/pup98/Pathogenic-Genomic-Variant-Detection-Project <br/>
     <br/>
 5. __Comparative Variant Calling and Annotation Pipeline__<br/>
