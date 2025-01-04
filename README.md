@@ -17,4 +17,4 @@
    __Link__: https://github.com/pup98/BWA-Variant-Calling-Pipeline <br/>
     <br />
 6. __Bulk RNA-seq Analysis (treated vs control)__<br />
-   __Link__: https://github.com/pup98/BWA-Variant-Calling-Pipeline
+   __Link__: https://github.com/pup98/Bulk-RNA-seq-Project
