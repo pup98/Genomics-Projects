@@ -12,8 +12,9 @@
    <br />
 4. __Consensus Pathogenic Genomic Variant Detection Project__<br />
    __Link__: https://github.com/pup98/Pathogenic-Genomic-Variant-Detection-Project <br/>
-    <br/>
+    <br />
 5. __Comparative Variant Calling and Annotation Pipeline__<br/>
+   __Link__: https://github.com/pup98/BWA-Variant-Calling-Pipeline <br/>
+    <br />
+6. __Bulk RNA-seq Analysis (treated vs control)__<br />
    __Link__: https://github.com/pup98/BWA-Variant-Calling-Pipeline
-
-   
